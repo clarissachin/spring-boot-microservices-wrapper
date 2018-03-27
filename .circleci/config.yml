@@ -1,8 +1,4 @@
 version: 2
-general:
-  branches:
-    only:
-     - starter-code
 jobs:
   users-api-tests:
     machine:
